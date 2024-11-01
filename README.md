@@ -1,2 +1,2 @@
-# Flask-Todo
-Created Simple Todo App using Flask
+# Djando-Todo
+Created Simple Todo App using Django
